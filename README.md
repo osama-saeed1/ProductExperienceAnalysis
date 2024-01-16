@@ -15,15 +15,15 @@ This repository contains data analytics and visualizations derived from a consum
 ## Dashboard 
 
 <p align="center">
-  <img src="[https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65](https://github.com/osama-saeed1/ProductExperienceAnalysis/assets/155672898/ff7c902f-d0d7-475c-a779-17f7b0e47f6a)" height="400">
+  <img src="https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65" height="400">
 </p>
 
 <p align="center">
-  <img src="[https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65](https://github.com/osama-saeed1/ProductExperienceAnalysis/assets/155672898/298900c8-271e-4ace-962a-cfbd3ef83b74)" height="400">
+  <img src="https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65" height="400">
 </p>
 
 <p align="center">
-  <img src="[https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65"](https://github.com/osama-saeed1/ProductExperienceAnalysis/assets/155672898/4c78bcb0-68d5-417a-8aba-16be7c2d7fc9) height="400">
+  <img src="https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65" height="400">
 </p>
 
 ## Key Metrics Explored
